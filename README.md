@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá eu sou o Matheus Barros 👋
+Um estudante de engenharia de software que busca aprender novas tecnologias e desenvolver uma base sólidade conhecimento 
 
-<!--
-**Ninja-Haiyai/Ninja-Haiyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Como entrar em contato comigo:
+<div>
+<a href= "mailto:ninjahaiyai@gmail.com">
+<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</div>
 
-Here are some ideas to get you started:
+### Tecnologias que uso no meu dia a dia:
+<div style="display: inline_block"> <br/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
+
+</div>
+
