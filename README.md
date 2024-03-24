@@ -1,5 +1,5 @@
 ### Olá eu sou o Matheus Barros 👋
-Um estudante de engenharia de software que busca aprender novas tecnologias e desenvolver uma base sólidade conhecimento 
+Um estudante de engenharia de software que busca aprender novas tecnologias e desenvolver uma base sólida de conhecimento 
 
 ### Como entrar em contato comigo:
 <div>
